@@ -1,0 +1,9 @@
+Package: com.ikilledappl3.9clock
+Name: 9Clock
+Depends: mobilesubstrate, ws.hbang.common
+Version: 1.0
+Architecture: iphoneos-arm
+Description: 9Clock brings the look of the iOS 9 clock app to iOS 10+ 
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks

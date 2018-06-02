@@ -1,0 +1,10 @@
+{
+    entry =     {
+        bundle = 9Clock;
+        cell = PSLinkCell;
+        detail = nineClockListController;
+        icon = "9Clock.png";
+        isController = 1;
+        label = 9Clock;
+    };
+}
